@@ -30,3 +30,6 @@ Script to export data and controls configuration to file on all applets in the S
 ## Usage
 Enter the Siebel view, open browser console, run `getViewConfig()` function.
 File with view configuration should start downloading.
+
+## Browser Support
+Works in Chrome, FireFox, Legacy Edge, Microsoft Edge and majority of other modern browsers. IE11 is not supported.
